@@ -1,6 +1,3 @@
-
-##Nirmal
-##Exploratory data analysis
 ## Introduction
 
 This assignment uses data from
